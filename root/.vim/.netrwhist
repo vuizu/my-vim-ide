@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/lancer'
+let g:netrw_dirhist_5='/Users/lancer/.oh-my-zsh'
+let g:netrw_dirhist_4='/Users/lancer/IdeaProjects/source'
+let g:netrw_dirhist_3='/usr/bin'
+let g:netrw_dirhist_2='/Users/lancer/IdeaProjects/Project/ManagementPlatform/vue/src/styles'
+let g:netrw_dirhist_1='/Users/lancer/.oh-my-zsh'
+let g:netrw_dirhist_0='/Users/lancer/Component/apache-maven-3.6.3'
+let g:netrw_dirhist_9='/Users/lancer/.config'
+let g:netrw_dirhist_8='/Users/lancer/.zinc/0.3.15'
+let g:netrw_dirhist_7='/Users/lancer/.zinc'

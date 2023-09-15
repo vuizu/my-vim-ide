@@ -1,0 +1,11 @@
+{
+    "features": {
+        "buildkit": true
+    },
+    "registry-mirrors": [
+        "https://mirrors.tuna.tsinghua.edu.cn",
+        "https://ustc-edu-cn.mirror.aliyuncs.com",
+        "https://mirror.baidubce.com",
+        "https://hub-mirror.c.163.com"
+    ]
+}
