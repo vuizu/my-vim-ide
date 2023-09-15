@@ -20,6 +20,16 @@
                 "--cross-file-rename",
                 "--function-arg-placeholders=false"
             ]
+        },
+        "cmake": {
+            "command": "cmake-language-server",
+            "filetypes": ["cmake"],
+            "rootPatterns": [
+                "build/"
+            ],
+            "initializationOptions": {
+                "buildDirectory": "build"
+            }
         }
     }
 }
